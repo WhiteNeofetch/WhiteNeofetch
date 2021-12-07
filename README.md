@@ -8,4 +8,4 @@ vue/nuxt+node.js+electron
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteNeofetch&show_icons=true&theme=synthwave)](https://github.com/WhiteNeofetch/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_icons=true&theme=dracula)](https://github.com/whiteneofetch/cms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whiteneofetch&repo=cms&show_icons=true&theme=dracula)](https://github.com/whiteneofetch/cms)
