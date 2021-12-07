@@ -1,5 +1,4 @@
 # I am a Javascript/node.js developer
 
-### That's how many people are interested in my profile
-![Visitor Count](https://profile-counter.glitch.me/then19/count.svg)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteNeofetch)](https://github.com/WhiteNeofetch/github-readme-stats)
