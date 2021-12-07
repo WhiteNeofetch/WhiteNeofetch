@@ -12,9 +12,9 @@
 <br>
 # CMS 
 <br>
-![client Nuxt.js]
+client Nuxt.js
 <br>
-![admin Nuxt.js]
+admin Nuxt.js
 <br>
-![api Node.js]
+api Node.js
 
