@@ -1,5 +1,6 @@
-# I am a Javascript/node.js developer
+# I am a Javascript developer
 
+vue/nuxt+node.js+electron
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteNeofetch)](https://github.com/WhiteNeofetch/github-readme-stats)
 
