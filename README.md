@@ -10,6 +10,6 @@
 <br>
 # client Nuxt.js
 <br>
-# min Nuxt.js
+# admin Nuxt.js
 <br>
 # api Node.js
